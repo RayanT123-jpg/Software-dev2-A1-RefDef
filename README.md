@@ -2,3 +2,7 @@
 
 
 In sprint 1 this repo was proposed https://github.com/RayanT123-jpg/Platformer-game-.git
+
+Platform Game
+
+Introduction:
