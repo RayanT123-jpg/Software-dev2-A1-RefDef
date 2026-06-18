@@ -6,7 +6,15 @@ In sprint 1 this repo was proposed https://github.com/RayanT123-jpg/Platformer-g
 Platform Game
 
 Introduction:
+# Coin Adventure
 
+## Project Overview
+
+Coin Adventure is a 2D platform game developed using Python and Pygame.
+
+The player controls a character that must collect coins, avoid enemies and reach the goal to complete the level.
+
+The project was developed as part of the Software Development 2 module.
 
 
 
