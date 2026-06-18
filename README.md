@@ -20,6 +20,7 @@ The project was developed as part of the Software Development 2 module.
 
 
 
+
 Scrum Style Stories.
 
 Identify, priorities and explain user and system requirements supported with ‘scrum’
