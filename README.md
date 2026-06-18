@@ -62,7 +62,23 @@ Scrum Backlog
 b. Produce a ‘scrum’ style backlog supported with clear, evaluated definitions and tests
 for the functions and features necessary to the completion of your project (10%)
 
+Scrum Backlog ;
 
+ID	Feature	Priority	Description	Testing
+1	Player Movement	High	Player moves left and right using keyboard arrows	Press left/right keys - Movement
+2	Jump System	High	Player jumps using spacebar	Press space - Movement
+3	Gravity System	High	Player falls back down after jumping	Player jumps - Movement
+4	Platform Collision	High	Player lands on platform without falling through	Player lands on platform correctly
+5	Enemy Movement	Medium	Enemy moves back and forth	Enemy moves automatically
+6	Enemy Collision	Medium	Player loses if touching enemy	Touch enemy - Game End
+7	Coin Collection	Medium	Player collects coin and increases score	Touch coin - Score
+8	Background Display	Low	Background image loads in game	Background appears
+9	Goal System	High	Player wins when reaching goal	Touch goal - End message
+10	Game Window	High	Game screen loads correctly	Game window opens
+11	Score System	Medium	Score increases when coin collected	Collect coin - Change of score
+12	Game Loop	High	Game continuously updates screen	Game runs smoothly
+13	Keyboard Controls	High	Game responds to key input	Keys move player
+14	Sprite Display	Medium	Player and enemy images load	Images appear correctly
 
 
 
