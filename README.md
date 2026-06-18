@@ -101,5 +101,18 @@ Scrum Backlog ;
 | PB13 | Keyboard Controls  | High     | Game responds to key input                        | Keys move player                     |
 | PB14 | Sprite Display     | Medium   | Player and enemy images load                      | Images appear correctly              |
 
+## Characters
+
+### Hero
+
+- Controlled by the player
+- Can move and jump
+- Collects coins
+
+### Enemy
+
+- Moves automatically
+- Causes game over if touched
+
 
 Acceptance criteria.
