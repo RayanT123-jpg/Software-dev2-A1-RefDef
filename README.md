@@ -72,7 +72,10 @@ The system shall detect when the player reaches the goal.
 
 The system should detect if the player reaches the end goal
 
+## Game Backstory
+## Game Story
 
+The player controls a hero who must travel through a platform world collecting coins while avoiding enemies. The aim is to safely reach the goal at the end of the level.
 
 
 Scrum Backlog 
