@@ -16,10 +16,18 @@ The player controls a character that must collect coins, avoid enemies and reach
 
 The project was developed as part of the Software Development 2 module.
 
+## Project Objectives
+## Objectives
 
+The objectives of the project are:
 
-
-
+- Create a playable platform game.
+- Implement player movement.
+- Implement jumping and gravity.
+- Implement enemy collision.
+- Implement coin collection.
+- Implement a win condition.
+- Apply software development principles.
 
 Scrum Style Stories.
 
