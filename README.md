@@ -143,18 +143,16 @@ Sprint 1:
 - Research
 - Planning
 - Requirements
+-  Enemy system
+- Coin system
+- Goal system
 
 Sprint 2:
 - Player movement
 - Jumping
 - Gravity
-
-Sprint 3:
-- Enemy system
-- Coin system
-- Goal system
-
-Sprint 4:
-- Testing
+- - Testing
 - Bug fixing
 - Documentation
+
+
