@@ -189,3 +189,7 @@ Sprint 2:
 - Implementing gravity.
 - Detecting collisions.
 - Organising code into multiple files.
+
+## Conclusion
+
+The project successfully produced a working 2D platform game. The game met the identified user requirements and system requirements and demonstrated the use of software development techniques including planning, implementation and testing.
