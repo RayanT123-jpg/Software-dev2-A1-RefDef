@@ -155,4 +155,10 @@ Sprint 2:
 - Bug fixing
 - Documentation
 
+## Tools Used
 
+- Python
+- Pygame
+- Visual Studio Code
+- GitHub
+- Windows 11
