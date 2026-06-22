@@ -126,3 +126,11 @@ Acceptance criteria.
 ## Gameplay
 
 The player uses the keyboard to move through the level, collect coins and avoid enemies. The game ends when the player reaches the goal or collides with an enemy.
+
+## Controls
+
+| Key | Action |
+|------|--------|
+| Left Arrow | Move Left |
+| Right Arrow | Move Right |
+| Space | Jump |
