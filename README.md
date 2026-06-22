@@ -112,7 +112,17 @@ Scrum Backlog ;
 ### Enemy
 
 - Moves automatically
+
+## Environment
+
+The game takes place in a side-scrolling platform world with a sky background, platforms, enemies and collectible coins.
+
+
 - Causes game over if touched
 
 
 Acceptance criteria.
+
+## Gameplay
+
+The player uses the keyboard to move through the level, collect coins and avoid enemies. The game ends when the player reaches the goal or collides with an enemy.
