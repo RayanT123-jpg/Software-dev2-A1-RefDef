@@ -173,3 +173,12 @@ Sprint 2:
 | T4 | Coin Collection | Score increases |
 | T5 | Goal | Victory |
 
+## Test Results
+
+| Test ID | Result |
+|----------|---------|
+| T1 | Pass |
+| T2 | Pass |
+| T3 | Pass |
+| T4 | Pass |
+| T5 | Pass |
