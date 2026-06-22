@@ -134,3 +134,27 @@ The player uses the keyboard to move through the level, collect coins and avoid 
 | Left Arrow | Move Left |
 | Right Arrow | Move Right |
 | Space | Jump |
+
+## Development Strategy
+
+The project followed an iterative development process.
+
+Sprint 1:
+- Research
+- Planning
+- Requirements
+
+Sprint 2:
+- Player movement
+- Jumping
+- Gravity
+
+Sprint 3:
+- Enemy system
+- Coin system
+- Goal system
+
+Sprint 4:
+- Testing
+- Bug fixing
+- Documentation
