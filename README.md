@@ -123,6 +123,42 @@ The game takes place in a side-scrolling platform world with a sky background, p
 
 Acceptance criteria.
 
+PB1 – Player Movement
+
+Acceptance Criteria:
+
+The player should be able to move left and right using the arrow keys without any noticeable delay.
+
+PB2 – Jump System
+
+Acceptance Criteria:
+
+When the spacebar is pressed, the player should jump and land back on the platform naturally.
+
+PB3 – Gravity System
+
+Acceptance Criteria:
+
+The player should fall back down after jumping and should not remain floating in the air.
+
+PB4 – Platform Collision
+
+Acceptance Criteria:
+
+The player should be able to stand on platforms without falling through them.
+
+PB5 – Enemy Movement
+
+Acceptance Criteria:
+
+The enemy should move automatically between two points and change direction when it reaches the end of its path.
+
+PB6 – Enemy Collision
+
+Acceptance Criteria:
+
+If the player touches an enemy, the game should immediately display a game over result.
+
 ## Gameplay
 
 The player uses the keyboard to move through the level, collect coins and avoid enemies. The game ends when the player reaches the goal or collides with an enemy.
