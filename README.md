@@ -162,3 +162,14 @@ Sprint 2:
 - Visual Studio Code
 - GitHub
 - Windows 11
+
+## Test Plan
+
+| Test ID | Feature | Expected Result |
+|----------|----------|----------|
+| T1 | Movement | Player moves |
+| T2 | Jump | Player jumps |
+| T3 | Enemy Collision | Game Over |
+| T4 | Coin Collection | Score increases |
+| T5 | Goal | Victory |
+
