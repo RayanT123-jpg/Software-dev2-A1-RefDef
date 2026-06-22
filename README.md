@@ -182,3 +182,10 @@ Sprint 2:
 | T3 | Pass |
 | T4 | Pass |
 | T5 | Pass |
+
+## Technical Challenges
+
+- Loading PNG assets correctly.
+- Implementing gravity.
+- Detecting collisions.
+- Organising code into multiple files.
